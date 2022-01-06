@@ -1,0 +1,1 @@
+docker-image = "harshadadeokar/python-flask-sqlite-app1:1.1"
